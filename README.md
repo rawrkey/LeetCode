@@ -10,15 +10,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rawrkey/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rawrkey/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0189-rotate-array](https://github.com/rawrkey/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/rawrkey/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/rawrkey/LeetCode/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/rawrkey/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/rawrkey/LeetCode/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/rawrkey/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/rawrkey/LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,4 +36,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rawrkey/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/rawrkey/LeetCode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/rawrkey/LeetCode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/rawrkey/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

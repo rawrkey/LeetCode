@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/rawrkey/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rawrkey/LeetCode/tree/master/0268-missing-number) |
+| [2235-add-two-integers](https://github.com/rawrkey/LeetCode/tree/master/2235-add-two-integers) |
 ## Two Pointers
 |  |
 | ------- |

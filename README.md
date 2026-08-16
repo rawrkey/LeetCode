@@ -56,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/rawrkey/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+## String
+|  |
+| ------- |
+| [2278-percentage-of-letter-in-string](https://github.com/rawrkey/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
 <!---LeetCode Topics End-->

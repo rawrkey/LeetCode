@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rawrkey/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rawrkey/LeetCode/tree/master/0268-missing-number) |
 | [2235-add-two-integers](https://github.com/rawrkey/LeetCode/tree/master/2235-add-two-integers) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rawrkey/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3894-traffic-signal-color](https://github.com/rawrkey/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Two Pointers
 |  |

@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/rawrkey/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/rawrkey/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/rawrkey/LeetCode/tree/master/0268-missing-number) |
 | [2235-add-two-integers](https://github.com/rawrkey/LeetCode/tree/master/2235-add-two-integers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rawrkey/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/rawrkey/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/rawrkey/LeetCode/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/rawrkey/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rawrkey/LeetCode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/rawrkey/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/rawrkey/LeetCode/tree/master/0268-missing-number) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rawrkey/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Bit Manipulation
@@ -71,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3894-traffic-signal-color](https://github.com/rawrkey/LeetCode/tree/master/3894-traffic-signal-color) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/rawrkey/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->

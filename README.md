@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rawrkey/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/rawrkey/LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/rawrkey/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rawrkey/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rawrkey/LeetCode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rawrkey/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/rawrkey/LeetCode/tree/master/0014-longest-common-prefix) |
 | [2278-percentage-of-letter-in-string](https://github.com/rawrkey/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
 | [3894-traffic-signal-color](https://github.com/rawrkey/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Simulation
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/rawrkey/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rawrkey/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rawrkey/LeetCode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/rawrkey/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/rawrkey/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/rawrkey/LeetCode/tree/master/0268-missing-number) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rawrkey/LeetCode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rawrkey/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rawrkey/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## String
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rawrkey/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/rawrkey/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
